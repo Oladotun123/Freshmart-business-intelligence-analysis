@@ -43,7 +43,7 @@ Developed 10+ DAX measures, including:
 - Evaluated regional contributions.
 - Monitored yearly profit trends.
 
-![FreshMart Profit Dashboard]([Screenshots/profit-analysis-dashboard.png](https://github.com/Oladotun123/Freshmart-business-intelligence-analysis/commit/9c8e4ce8cfb14f0ef52018a729d8929fb4be4f06))
+![FreshMart Profit Dashboard](https://github.com/Oladotun123/Freshmart-business-intelligence-analysis/commit/9c8e4ce8cfb14f0ef52018a729d8929fb4be4f06)
 
 ### 4. Business Insights & Recommendations
 - Developed 10 business insights from the analysis.
